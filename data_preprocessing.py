@@ -137,6 +137,6 @@ def preprocess_train_data():
 
 bow_data  , label_data = preprocess_train_data()
 print("Primera codificación de la bolsa de palabras: " , bow_data[0])
-print("Primera códificación de las etiquetas: " , label_data[0])
+print("Primera codificación de las etiquetas: " , label_data[0])
 
 
