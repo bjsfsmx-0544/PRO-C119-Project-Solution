@@ -1,4 +1,5 @@
 # PRO_C119_SP_V1
+## También utilizado en PRO_C138_SP_1:4
 FILOSOFÍA DE UN CHATBOT  
 Python. NLTK.  
   
